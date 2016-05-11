@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ee.ut.restgen.rgdsl.sdk_1.0.0.201512181022.jar" id="ee.ut.restgen.rgdsl.sdk" version="1.0.0.201512181022"/>
+   <feature url="features/ee.ut.restgen.rgdsl.sdk_1.0.0.201605110811.jar" id="ee.ut.restgen.rgdsl.sdk" version="1.0.0.201605110811"/>
 </site>
