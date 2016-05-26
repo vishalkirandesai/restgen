@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ee.ut.restgen.rgdsl.sdk_1.0.0.201605110811.jar" id="ee.ut.restgen.rgdsl.sdk" version="1.0.0.201605110811"/>
-	<category-def name="RestGen" label="RestGen">
-	<description>
-		RestGen is a simple editor that allows you to kick start a Spring HATEOAS application in matter of minutes.
-	</description>
+   <feature url="features/ee.ut.restgen.rgdsl.sdk_1.0.0.201605261117.jar" id="ee.ut.restgen.rgdsl.sdk" version="1.0.0.201605261117">
+      <category name="RestGen"/>
+   </feature>
+   <category-def name="RestGen" label="RestGen">
+      <description>
+         RestGen provides a simple editor to kick start a Spring HATEOAS application in a matter of minutes.
+      </description>
+   </category-def>
 </site>
