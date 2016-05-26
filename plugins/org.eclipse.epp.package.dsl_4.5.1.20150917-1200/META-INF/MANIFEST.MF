@@ -1,0 +1,61 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.eclipse.epp.package.dsl;singleton:=true
+Archiver-Version: Plexus Archiver
+Built-By: genie.packaging
+Require-Bundle: org.eclipse.platform,org.eclipse.equinox.app
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/epp/or
+ g.eclipse.epp.packages.git;path="packages/org.eclipse.epp.package.dsl
+ ";commitId=c918becaffd965394db9d364787da6bc4336cc15
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Eclipse Packaging Project
+Bundle-Name: EPP DSL Bundle
+Bundle-Version: 4.5.1.20150917-1200
+Created-By: Apache Maven 3.3.1
+Build-Jdk: 1.7.0_80
+Eclipse-BundleShape: dir
+
+Name: about.properties
+SHA-256-Digest: vVpWWlHz3dTSLplobClY1tNFBO8xyFf4/2vs5uDU+VA=
+
+Name: plugin_customization.ini
+SHA-256-Digest: 0L0ws26TWOWztyMFnDCUCHxfze68xCCo++PwF3NdOJg=
+
+Name: about.html
+SHA-256-Digest: UTaB7jny234ewRnQ2UOoGM8hk+k1vS982d8D3YQUB6k=
+
+Name: plugin.xml
+SHA-256-Digest: PXirA0SZoRC9vFVKT/LMT1vlWkE1gIOPmlen6d25yEs=
+
+Name: intro-eclipse.png
+SHA-256-Digest: tVA61FalUdc3NRe6eEABDuyh+57e6fQrJ7XrTXLIGsw=
+
+Name: eclipse32.png
+SHA-256-Digest: ktA85ZDd0SYDxbcnnzVpnpATbdHzzTvB7x6Y8FkhCS4=
+
+Name: META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.dsl/pom.p
+ roperties
+SHA-256-Digest: GJMkKLLjDCnvZYlxf7LnlkXxqUA9rK2xryCUwby3XCQ=
+
+Name: about.mappings
+SHA-256-Digest: WJNE9XLrmJLD82GnFGTBpZKMblHgGdmEMP/1mEDjduw=
+
+Name: eclipse_lg.png
+SHA-256-Digest: 79c+0FcoeJcVkgVNk1SX3dXhc+f9fSttQn+p6It3G+Q=
+
+Name: eclipse48.png
+SHA-256-Digest: EeE/qub7BEo/0PoxZcrXMRDFjT00qg3gLR8c9IVhVcU=
+
+Name: META-INF/maven/org.eclipse.epp/org.eclipse.epp.package.dsl/pom.x
+ ml
+SHA-256-Digest: txvZNq2UuC0qtsm1B2/xBnG97zm9AWPcQwfX0XdOPWI=
+
+Name: about.ini
+SHA-256-Digest: ERRwUPczxy/N/7+sZ6NlrgG1xUeK2SFvNm90ym4ORno=
+
+Name: eclipse256.png
+SHA-256-Digest: iXCC15nl7M4FmsBM4hb2MKrXaZEX+HSO2GFAVkBpaAo=
+
+Name: eclipse16.png
+SHA-256-Digest: /J3RvmGlaYuPpn6gL7yrCohkIZ3gNNth3ztHKMGjcJ0=
+
