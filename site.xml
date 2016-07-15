@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/ee.ut.restgen.rgdsl.sdk_1.0.0.201607151720.jar" id="ee.ut.restgen.rgdsl.sdk" version="1.0.0.201607151720">
+   <feature url="features/ee.ut.restgen.rgdsl.sdk_1.0.0.201607151807.jar" id="ee.ut.restgen.rgdsl.sdk" version="1.0.0.201607151807">
       <category name="RestGen"/>
    </feature>
    <category-def name="RestGen" label="RestGen">
